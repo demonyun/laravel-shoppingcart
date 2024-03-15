@@ -15,7 +15,7 @@ Git repo of the demo: https://github.com/darryldecode/laravelshoppingcart-demo
 
 Install the package through [Composer](http://getcomposer.org/).
 
-```composer require "darryldecode/cart"```
+```composer require "demonyun/laravel-shoppingcart"```
 
 ## CONFIGURATION
 
